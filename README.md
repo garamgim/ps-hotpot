@@ -6,4 +6,4 @@ We solve problem and eat hotpot.
 | --- | --- |
 | 30  | 0   |
 
-<img src="./hotpot.png">
+<img src="./hotpot.jpg">
